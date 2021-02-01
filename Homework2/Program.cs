@@ -11,7 +11,6 @@ namespace Homework2
     {
         static void Main(string[] args)
         {
-
             Tank[] t34 = new Tank[5];
             Tank[] pantera = new Tank[5];
             int vivod;
